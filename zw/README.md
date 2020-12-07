@@ -1,11 +1,5 @@
 ---
-sort: 3
+sort: 1
 ---
-
-# Test Documentation
-
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
-
+# 我的博客
 {% include list.liquid all=true %}
