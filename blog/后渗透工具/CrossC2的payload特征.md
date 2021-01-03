@@ -707,7 +707,7 @@
 458C70	calloc		130
 458C9F	calloc
 6ECB67	memset
-687CA3	memcpy		abcdefghijklmnop
+687CA3	memcpy		iv
 	43AE40	call    sub_439640
 	439BD2  jz      loc_439EF1
 	439F7C	call    sub_4585C0
@@ -716,7 +716,7 @@
 	44AFCA 	jz		loc_44B6B2
 		44AF06	jz      loc_44C2E1
 		44C320	call    sub_6ED170
-		6ED0A8	call    sub_687C7D		abcdefghijklmnop
+		6ED0A8	call    sub_687C7D
 		6ECEED 	call    qword ptr [r8+18h]
 		6F0F1D 	call    sub_743E80
 			743E84 	call    sub_743EF0	
