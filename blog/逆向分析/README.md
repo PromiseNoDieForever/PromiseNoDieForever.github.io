@@ -2,5 +2,5 @@
 sort: 2
 ---
 
-# 这里是逆向分析的文件夹
-{% include list.liquid all=true %}
+逆向分析
+{% raw %}{% include list.liquid all=true %}{% endraw %}

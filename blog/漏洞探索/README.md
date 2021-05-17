@@ -2,6 +2,5 @@
 sort: 3
 ---
 
-# 这里是漏洞探索的文件夹
-
-{% include list.liquid all=true %}
+漏洞探索
+{% raw %}{% include list.liquid all=true %}{% endraw %}
